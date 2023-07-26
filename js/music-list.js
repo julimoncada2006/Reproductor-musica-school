@@ -94,5 +94,11 @@ let allMusic = [
         artist: "Papa Roach",
         img: "ab67616d0000b273df35bf65ebd6738a760e2cd1",
         src: "She Loves Me Not Papa Roach"
+    },
+    {
+        name: "Alan Walker - Faded",
+        artist: "Alan Walker",
+        img: "artworks-ev0a8a8enTB0JNz4-Dlryzg-t500x500",
+        src: "Faded Alan Walker"
     }
 ]
