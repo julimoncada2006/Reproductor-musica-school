@@ -100,5 +100,11 @@ let allMusic = [
         artist: "Alan Walker",
         img: "artworks-ev0a8a8enTB0JNz4-Dlryzg-t500x500",
         src: "Faded Alan Walker"
+    },
+    {
+        name: "Alan Walker, Sabrina Carpenter & Farruko - On My Way",
+        artist: "Alan Walker",
+        img: "fe384ad2-cb19-4a6a-a894-10f0a938b8b7_1024",
+        src: "On My Way Alan Walker, Sabrina Carpenter and Farruko"
     }
 ]
