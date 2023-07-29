@@ -118,5 +118,11 @@ let allMusic = [
         artist: "Sebastián Yatra",
         img: "ab67616d0000b27387632ea37f5d02b9740e2fdc",
         src: "Cristina Sebastián Yatra"
+    },
+    {
+        name: "Camilo - Vida de Rico",
+        artist: "Camilo",
+        img: "ab67616d0000b2731787548fbb289e9a26a5e1c1",
+        src: "Vida de Rico Camilo   (Official Video)"
     }
 ]
