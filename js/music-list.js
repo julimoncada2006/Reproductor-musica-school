@@ -124,5 +124,11 @@ let allMusic = [
         artist: "Camilo",
         img: "ab67616d0000b2731787548fbb289e9a26a5e1c1",
         src: "Vida de Rico Camilo   (Official Video)"
+    },
+    {
+        name: "Bad Bunny - Amorfoda",
+        artist: "Bad Bunny",
+        img: "ab67616d0000b273f68d3148a46b457e05f2acde",
+        src: "AMORFODA BAD BUNNY   (Video Oficial)"
     }
 ]
