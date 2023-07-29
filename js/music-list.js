@@ -130,5 +130,11 @@ let allMusic = [
         artist: "Bad Bunny",
         img: "ab67616d0000b273f68d3148a46b457e05f2acde",
         src: "AMORFODA BAD BUNNY   (Video Oficial)"
+    },
+    {
+        name: "Reik - Ya Me Enteré",
+        artist: "Reik",
+        img: "ab67616d00001e022a62703135dd2e4cefd244cf",
+        src: "Ya Me Enteré Reik   (Official Video)"
     }
 ]
