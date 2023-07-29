@@ -106,5 +106,17 @@ let allMusic = [
         artist: "Alan Walker",
         img: "fe384ad2-cb19-4a6a-a894-10f0a938b8b7_1024",
         src: "On My Way Alan Walker, Sabrina Carpenter and Farruko"
+    },
+    {
+        name: "Sebastián Yatra - Tacones Rojos",
+        artist: "Sebastián Yatra",
+        img: "ab67616d0000b273f789b02ba6655a1f03d17b9f",
+        src: "Tacones Rojos  Sebastián Yatra  (Official Video)"
+    },
+    {
+        name: "Sebastián Yatra - Cristina",
+        artist: "Sebastián Yatra",
+        img: "ab67616d0000b27387632ea37f5d02b9740e2fdc",
+        src: "Cristina Sebastián Yatra"
     }
 ]
